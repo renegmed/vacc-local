@@ -1,5 +1,8 @@
+div {
+  font-size: 14px;
+}
 .App {
-  text-align: center;
+  text-align: center; 
 }
 
 .App-logo {
@@ -53,7 +56,7 @@ p {
 .heading{
     background-color: white;
     color:black !important;
-    font-size: calc(10px + 2vmin);
+    font-size: calc(8px + 2vmin);
     padding:2px;
     text-align: left;
     font-weight: 500;
